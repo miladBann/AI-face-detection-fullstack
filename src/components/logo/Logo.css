@@ -1,0 +1,11 @@
+.logoMain
+{
+    border-radius: 15px;
+    background-image: linear-gradient(to right,rgb(221, 54, 146),rgb(77, 77, 234));
+    z-index: 100;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    margin-left: 30px;
+    position: relative;
+    bottom: 60px;
+}

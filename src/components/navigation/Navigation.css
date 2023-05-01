@@ -1,0 +1,15 @@
+nav 
+{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5%;
+    font-weight: 500;
+    font-size: 1.7em;
+    z-index: -1000;
+}
+
+p {
+    cursor: pointer;
+    text-decoration: underline;
+    color:  rgb(241, 226, 226);
+}

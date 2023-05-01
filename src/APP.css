@@ -1,0 +1,12 @@
+.displayImg
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#inputImage {
+    max-width: 80%;
+    display: block;
+    margin: 0 auto;
+}

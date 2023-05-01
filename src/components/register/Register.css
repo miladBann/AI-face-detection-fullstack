@@ -1,0 +1,69 @@
+.mainContainerR {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 25%;
+    border-radius: 15px;
+    padding: 0;
+    margin-top: 1%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+}
+
+.mainContainerR h1 {
+    font-weight: 800;
+    font-size: 3.5em;
+    margin: 10px 0px 0px 10px;
+    color: white;
+}
+
+.emailContR, .passwordContR, .NameContR{
+    width: 80%;
+    margin: 0;
+    text-align: center;
+}
+
+.emailContR h4, .passwordContR h4, .NameContR h4 {
+    font-weight: 700;
+    font-size: 1.8em;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.emailContR input, .passwordContR input, .NameContR input{
+    font-weight: 400;
+    font-size: 1.5em;
+    width: 90%;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    background-color: black;
+    color: white;
+}
+
+.mainContainerR button {
+    text-align: center;
+    font-weight: 700;
+    padding: 10px 20px 10px 20px;
+    font-size: 1.4em;
+    border: 1px solid white;
+    border-radius: 15px;
+    background: none;
+    cursor: pointer;
+    margin-bottom: 40px;
+    color: white;
+}
+
+.back {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5%;
+    font-weight: 500;
+    font-size: 1.9em;
+    text-decoration: underline;
+    cursor: pointer;
+    color: whitesmoke;
+}
