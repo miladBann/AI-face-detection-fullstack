@@ -1,3 +1,14 @@
+Make sure to put the backend files in a folder together:
+app.js
+package.js
+package-lock
+
+and within app.js open the terminal and type npm start to activate the backend
+=================================================================
+the rest of the files should be in a seperate folder and that's the frontend
+to activate it also navigate to that folder and in the terminal type: npm start
+=================================================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
